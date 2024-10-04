@@ -1,0 +1,117 @@
+[
+  {
+    "ID": 1,
+    "Name": "MEN-GO T-SHIRT ",
+    "audience": "men",
+    "Category": "T-Shirt",
+    "Price": 25.0,
+    "producer_Id": 313,
+    "stock": {
+      "small": 10,
+      "medium": 4,
+      "large": 3,
+      "XLarge": 2,
+      "XXLarge": 2
+    },
+    "rating": 3,
+    "colorsImgs": [
+      {
+        "color": "Black",
+        "hex": "#000",
+        "imgs": [
+          "../database/imgs/winnerforce/MEN-GO BEYOND-BOLD-T-SHIRT/black 1.png",
+          "../database/imgs/winnerforce/MEN-GO BEYOND-BOLD-T-SHIRT/black 2.png",
+          "../database/imgs/winnerforce/MEN-GO BEYOND-BOLD-T-SHIRT/black 3.png"
+        ]
+      },
+      {
+        "color": "white",
+        "hex": "#fff",
+        "imgs": [
+          "../database/imgs/winnerforce/MEN-GO BEYOND-BOLD-T-SHIRT/white 1.png",
+          "../database/imgs/winnerforce/MEN-GO BEYOND-BOLD-T-SHIRT/white 2.png",
+          "../database/imgs/winnerforce/MEN-GO BEYOND-BOLD-T-SHIRT/white 3.png"
+        ]
+      },
+      {
+        "color": "BLUE-INDIGO",
+        "hex": "",
+        "imgs": [
+          "../database/imgs/winnerforce/MEN-GO BEYOND-BOLD-T-SHIRT/BLUE-INDIGO 1.png",
+          "../database/imgs/winnerforce/MEN-GO BEYOND-BOLD-T-SHIRT/BLUE-INDIGO 2.png",
+          "../database/imgs/winnerforce/MEN-GO BEYOND-BOLD-T-SHIRT/BLUE-INDIGO 3.png"
+        ]
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "Name": "MEN-GO TECH-ZIPPED-HOODIE",
+    "audience": "men",
+    "Category": "HOODIE",
+    "Price": 39.0,
+    "producer_Id": 313,
+    "stock": {
+      "small": 3,
+      "medium": 8,
+      "large": 6,
+      "XLarge": 3,
+      "XXLarge": 10
+    },
+    "rating": 4.5,
+    "colorsImgs": [
+      {
+        "color": "Black",
+        "imgs": [
+          "../database/imgs/winnerforce/MEN-GO-BEYOND-TECH-ZIPPED-HOODIE/black 1.png",
+          "../database/imgs/winnerforce/MEN-GO-BEYOND-TECH-ZIPPED-HOODIE/black 2.png",
+          "../database/imgs/winnerforce/MEN-GO-BEYOND-TECH-ZIPPED-HOODIE/black 3.png",
+          "../database/imgs/winnerforce/MEN-GO-BEYOND-TECH-ZIPPED-HOODIE/black 4.png"
+        ]
+      },
+      {
+        "color": "LIGHT-BEIGE",
+        "imgs": [
+          "../database/imgs/winnerforce/MEN-GO-BEYOND-TECH-ZIPPED-HOODIE/LIGHT-BEIGE 1.png",
+          "../database/imgs/winnerforce/MEN-GO-BEYOND-TECH-ZIPPED-HOODIE/LIGHT-BEIGE 2.png",
+          "../database/imgs/winnerforce/MEN-GO-BEYOND-TECH-ZIPPED-HOODIE/LIGHT-BEIGE 3.png",
+          "../database/imgs/winnerforce/MEN-GO-BEYOND-TECH-ZIPPED-HOODIE/LIGHT-BEIGE 4.png"
+        ]
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "Name": "MEN-GO SUMMIT-PANT",
+    "audience": "men",
+    "Category": "Pants",
+    "Price": 29.0,
+    "producer_Id": 313,
+    "stock": {
+      "small": 0,
+      "medium": 3,
+      "large": 4,
+      "XLarge": 7,
+      "XXLarge": 9
+    },
+    "rating": 1,
+    "colorsImgs": [
+      {
+        "color": "Black",
+        "imgs": [
+          "../database/imgs/winnerforce/MEN-GO BEYOND-SUMMIT-PANT/black 1.png",
+          "../database/imgs/winnerforce/MEN-GO BEYOND-SUMMIT-PANT/black 2.png",
+          "../database/imgs/winnerforce/MEN-GO BEYOND-SUMMIT-PANT/black 3.png"
+        ]
+      },
+      {
+        "color": "LIGHT-BEIGE",
+        "imgs": [
+          "../database/imgs/winnerforce/MEN-GO BEYOND-SUMMIT-PANT/CLASSIC-BLUE 1.png",
+          "../database/imgs/winnerforce/MEN-GO BEYOND-SUMMIT-PANT/CLASSIC-BLUE 2.png",
+          "../database/imgs/winnerforce/MEN-GO BEYOND-SUMMIT-PANT/CLASSIC-BLUE 3.png"
+        ]
+      }
+    ]
+  }
+]
